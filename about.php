@@ -99,68 +99,6 @@
           </div>
         </div>
       </section>
-      <!--Overview-->
-      <section class="section-sm">
-        <div class="container">
-          <div class="row row-30">
-            <div class="col-md-6 col-lg-4">
-              <h2 class="text-uppercase">Advantages</h2>
-              <ul class="list-ordered">
-                <li class="list-ordered-item">
-                    Diseños
-                    <ul>
-                        <li>Niveles de autoridad: Familia, hombre, mujer, joven, anciano, economía, administración, salud, adoración, entre otros.</li>
-                    </ul>
-                </li>
-                <li class="list-ordered-item">
-                  Ministerios y espacios ministeriales
-                  <ul>
-                      <li>Ejercicio de dones ministeriales y ministerios. Efesios 4:11-16, 1 Corintios 12:4-11</li>
-                  </ul>
-                </li>
-                <li class="list-ordered-item">
-                    Generacional
-                    <ul>
-                        <li>Legado recibido y legado que dejaremos. Deuteronomio 7:9, Mateo 22:32</li>
-                    </ul>
-                </li>
-                <li class="list-ordered-item">
-                  Vida del Espíritu y revelación
-                    <ul>
-                        <li>Práctica diaria de Su Presencia. Apocalipsis 19:10</li>
-                    </ul>
-                </li>
-            </ul>
-            </div>
-            <div class="col-md-6 col-lg-4">
-              <h2 class="text-uppercase">Why Us</h2>
-              <p class="text-primary font-weight-semibold">8 Reasons to Choose Our Company</p>
-              <p>Curabitur eu lorem ac lacus laoreet auctor. Fusce vitae orci nec velit ornare rhoncus ut tempus est. Mauris eu augue lorem. Suspendisse sit amet vehi cula nisl, nec faucibus nisl. Proin ac fermentum orci, non semper metus. Nulla nulla tellus</p>
-              <ul class="list-marked">
-                <li><a class="list-marked-item" href="#">Fusce itae orci nec velit ornare rhon</a></li>
-                <li><a class="list-marked-item" href="#">Ecus ut tempus estauris eu augue lorem.</a></li>
-                <li><a class="list-marked-item" href="#">Suspendisse sit amet vehicula</a></li>
-                <li><a class="list-marked-item" href="#">Anisl, nec faucibus nislroin ac fermentum</a></li>
-                <li><a class="list-marked-item" href="#">Horci, non semper metusulla nulla</a></li>
-                <li><a class="list-marked-item" href="#">Dellus, tincidunt vel eros gravida, cursu</a></li>
-                <li><a class="list-marked-item" href="#">Nullam ac magna nisi. Integer</a></li>
-                <li><a class="list-marked-item" href="#">Dictum sagittis vulputate ulla a purus</a></li>
-              </ul>
-            </div>
-            <div class="col-md-6 col-lg-4">
-              <h2 class="text-uppercase">Testimonial</h2>
-                    <blockquote class="testimonial">
-                      <div class="testimonial-img"><img src="images/persons/person-05-170x168.jpg" alt="" width="170" height="168"/>
-                      </div>
-                      <div class="testimonial-inner">
-                        <q class="testimonial-quote">Curabitur eu lorem ac lacus laoreet auctor. Fusce vitae orci nec velit ornare rhoncus ut tem pus est. Mauris eu aug ue lorem. Suspendisse sit amet vehi cul</q>
-                        <cite class="testimonial-author">Edna Barton, <br class="d-none d-xl-block">client</cite>
-                      </div>
-                    </blockquote>
-            </div>
-          </div>
-        </div>
-      </section>
     </div>
     <div class="form-output snackbars" id="form-output-global"></div>
     <script src="js/core.min.js"></script>

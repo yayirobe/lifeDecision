@@ -184,10 +184,10 @@
               <h2 class="text-uppercase text-primary">Bienvenidos <span class="font-weight-light">a nuestra iglesia!</span></h2>
             </div>
             <div class="col-md-6">
-              <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              <p>LIFE DECISION es una voz profética en medio de esta generación, la cual los hará volver a las Sendas Antiguas, a la búsqueda de Su Presencia, al Ayuno, al Clamor e Intercesión, a Conocer y Creer en Su Palabra, y así dejar al Espíritu Santo que obre como Él quiera.</p>
             </div>
             <div class="col-md-6">
-              <p>Candidatus noster zirbus est. Nunquam quaestio finis. Sunt tumultumquees fallere festus, magnum buxumes. Grandis diatria patienter examinares urbs est. Vox de talis messor, contactus species! Bursas sunt silvas de neuter hydra. Albus mortem sed mire anhelares lumen est. Cur lixa accelerare? Hercle, indictio superbus!. Nixuss tolerare, tanquam castus canis. Fidelis abactors ducunt ad pes. Adiurators sunt fugas de emeritis aonides. Vae, bassus calceus! Urbs de audax hibrida, prensionem ventus! Est alter burgus, cesaris. Sunt classises demitto bassus, dexter lactaes. Brabeutas favere! Cur elevatus potus? Monss sunt homos de noster cedrium.<a class="custom-link" href="#"><span class="custom-link-icon fa-angle-right"></span></a></p>
+              <p>“Ministerio LIFE DECISION” es un lugar donde definimos nuestro destino espiritual a través de decisiones impulsadas por Su Espíritu, donde bebemos y disfrutamos de la abundancia de Su Presencia (Su Rio -Ezequiel 47:1-12).</p>
             </div>
           </div>
         </div>
@@ -214,19 +214,8 @@
           </div>
         </div>
       </section>
-      <!--Call To Action-->
-      <section class="parallax-container" data-parallax-img="images/img-07-2050x988.jpg">
-        <div class="parallax-inner section-cta">
-          <div class="section-cta-inner">
-            <h1 class="section-cta-heading">texto prueba,<br class="d-none d-lg-block"> text prueba,<br> <span class="font-weight-light">+ texto</span></h1>
-            <p class="section-cta-caption">Pol. Fidelis frondators ducunt ad pars. Ubi est noster fiscina? Cedriums resistere in salvus moscua! Speciess observare, tanquam teres barcas. Sunt lunaes contactus nobilis, alter abactores. Bi-color medicina.</p><a class="section-cta-btn btn btn-primary btn-lg btn-with-icon" href="#">Read More <span class="btn-icon fa-angle-right"></span></a>
-          </div>
-        </div>
-      </section>
-      <!--Clients-->
     </div>
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
-    <!--coded by ATOM-->
   </body>
 </html>
