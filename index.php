@@ -57,65 +57,35 @@
           </nav>
         </div>
       </header>
-      <!--Swiper Slider-->
-      <section class="swiper-container" data-autoplay="5000" data-loop="true">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide" data-slide-bg="images/slides/slide1.jpg">
-            <div class="swiper-slide-caption">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-6"><a class="cta-box cta-box-primary" href="#" data-caption-animate="fadeInRight" data-caption-duration="800">
-                            <h1 class="cta-box-heading">Pedido de Oración</h1>
-                            <div class="cta-box-inner">
-                              <p class="cta-box-content">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
-                              <div class="cta-box-icon fa-angle-right"></div>
-                            </div></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide" data-slide-bg="images/slides/slide2.jpg">
-            <div class="swiper-slide-caption">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-6"><a class="cta-box cta-box-secondary" href="#" data-caption-animate="fadeInRight" data-caption-duration="800">
-                            <h1 class="cta-box-heading">¿Como llegar?</h1>
-                            <div class="cta-box-inner">
-                              <p class="cta-box-content">Nunquam manifestum habitio. Pol, a bene palus. Camerarius burguss ducunt ad cobaltum. Sunt danistaes promissio velox, azureus humani generises.</p>
-                              <div class="cta-box-icon fa-angle-right"></div>
-                            </div></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide" data-slide-bg="images/slides/slide3.jpg">
-            <div class="swiper-slide-caption">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-7"><a class="cta-box" href="#" data-caption-animate="fadeInRight" data-caption-duration="800">
-                            <h1 class="cta-box-heading">Contacto</h1>
-                            <div class="cta-box-inner">
-                              <p class="cta-box-content">Ecce, audax orgia! Talis, velox planetas grauiter consumere de emeritis, nobilis armarium. Planeta de pius parma, anhelare frondator! Lubas sunt.</p>
-                              <div class="cta-box-icon fa-angle-right"></div>
-                            </div></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="swiper-overlay">
+      <!-- Noticias -->
+      <section class="parallax-container" data-parallax-img="images/slides/slide1.jpg">
+        <div class="parallax-inner section-cta">
           <div class="container">
-            <div class="swiper-pagination"></div>
+            <div class="row">
+              <div class="col-sm-4">
+                <a class="cta-box cta-box-primary" href="#">
+                  <h1 class="cta-box-heading">Pedido de Oración</h1>
+                </a>
+              </div>
+              <div class="col-sm-4">
+                <a class="cta-box cta-box-primary" href="#">
+                  <h1 class="cta-box-heading">¿Como llegar?</h1>
+                </a>
+              </div>
+              <div class="col-sm-4">
+                <a class="cta-box cta-box-primary" href="#">
+                  <h1 class="cta-box-heading" style="margin-top: 30px;">Contacto</h1>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </section>
-      <!--Offers-->
+      <!--Ministerios-->
       <section class="section-xs">
         <div class="container">
           <div class="row row-30">
+            <div class="col-sm-6 col-lg-2"></div>
             <div class="col-sm-6 col-lg-4">
               <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(images/sections/educacion.jpg)">
                 <div class="thumbnail-caption">
@@ -127,8 +97,8 @@
                 </div>
               </a>
             </div>
-            <div class="col-sm-6 col-lg-8">
-              <a class="thumbnail thumbnail-wide" href="#" style="background-image: url(images/img-04-370x370.jpg)">
+            <div class="col-sm-6 col-lg-4">
+              <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(images/img-04-370x370.jpg)">
                 <div class="thumbnail-caption">
                   <h3 class="thumbnail-heading">Esperanza de Vida</h3>
                   <div class="thumbnail-inner">
@@ -138,6 +108,7 @@
                 </div>
               </a>
             </div>
+            <div class="col-sm-6 col-lg-2"></div>
           </div>
           <div class="row row-30">
             <div class="col-sm-6 col-lg-4">
