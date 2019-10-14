@@ -10,7 +10,7 @@
             </a>
           </div>
           <div class="col-sm-4">
-            <a class="cta-box cta-box-primary" href="#">
+            <a class="cta-box cta-box-primary" href="./howToGet">
               <h1 class="cta-box-heading">¿Como llegar?</h1>
             </a>
           </div>
