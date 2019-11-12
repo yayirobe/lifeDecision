@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row row-30">
       <div class="col-lg-3 col-xl-4">
-        <h2 class="text-uppercase">Quienes <span class="font-weight-light">Somos</span></h2><img src="images/about/Pastores.jpeg" alt="" width="370" height="137"/>
+        <h2 class="text-uppercase">Quienes <span class="font-weight-light">Somos</span></h2><img src="/lifeDecision/images/about/Pastores.jpeg" alt="" width="370" height="137"/>
         <p class="text-primary font-weight-semibold">Nuestros Pastores</p>
         <p class="text-justify">Pastores de jóvenes y fundadores del Ministerio Life Decision con sede central en la ciudad de Rosario. Ejercen un Ministerio enfocado en las generaciones emergentes. Casados desde el año 2013, papás de tres niñas: Holly y las gemelas Annie y Joyce.</p>
       </div>

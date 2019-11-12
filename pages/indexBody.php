@@ -1,6 +1,6 @@
 <div id="body">
   <!-- Noticias -->
-  <section class="parallax-container" data-parallax-img="images/slides/slide1.jpg">
+  <section class="parallax-container" data-parallax-img="/lifeDecision/images/slides/slide1.jpg">
     <div class="parallax-inner section-cta">
       <div class="container">
         <div class="row">
@@ -10,7 +10,7 @@
             </a>
           </div>
           <div class="col-sm-4">
-            <a class="cta-box cta-box-primary" href="./howToGet">
+            <a class="cta-box cta-box-primary" href="/lifeDecision/howToGet">
               <h1 class="cta-box-heading">¿Como llegar?</h1>
             </a>
           </div>
@@ -29,7 +29,7 @@
       <div class="row row-30">
         <div class="col-sm-6 col-lg-2"></div>
         <div class="col-sm-6 col-lg-4">
-          <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(images/sections/educacion.jpg)">
+          <a class="thumbnail thumbnail-secondary" href="/lifeDecision/ministerios/manosDeVida" style="background-image: url(/lifeDecision/images/ministerios/manosDeVida/Manos_de_Vida.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Manos de Vida</h3>
               <div class="thumbnail-inner">
@@ -40,7 +40,7 @@
           </a>
         </div>
         <div class="col-sm-6 col-lg-4">
-          <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(images/img-04-370x370.jpg)">
+          <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(/lifeDecision/images/img-04-370x370.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Esperanza de Vida</h3>
               <div class="thumbnail-inner">
@@ -54,7 +54,7 @@
       </div>
       <div class="row row-30">
         <div class="col-sm-6 col-lg-4">
-          <a class="thumbnail" href="#" style="background-image: url(images/sections/alabanza.jpg)">
+          <a class="thumbnail" href="#" style="background-image: url(/lifeDecision/images/sections/alabanza.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Alianza</h3>
               <div class="thumbnail-inner">
@@ -65,7 +65,7 @@
           </a>
         </div>
         <div class="col-sm-6 col-lg-4">
-          <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(images/img-04-370x370.jpg)">
+          <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(/lifeDecision/images/img-04-370x370.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Familia</h3>
               <div class="thumbnail-inner">
@@ -76,7 +76,7 @@
           </a>
         </div>
         <div class="col-sm-6 col-lg-4">
-          <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(images/sections/misericordia.jpg)">
+          <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(/lifeDecision/images/sections/misericordia.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Evangelismo</h3>
               <div class="thumbnail-inner">
@@ -122,7 +122,7 @@
                   <h4 class="panel-heading">Servicio 4</h4>
                   <div class="panel-icon fa-angle-right"></div></a>
         </div>
-        <div class="col-md-6"><img src="images/servicios.jpg" alt="" width="570" height="350"/>
+        <div class="col-md-6"><img src="/lifeDecision/images/servicios.jpg" alt="" width="570" height="350"/>
         </div>
       </div>
     </div>

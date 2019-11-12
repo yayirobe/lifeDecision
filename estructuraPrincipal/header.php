@@ -13,14 +13,14 @@
       <div class="rd-navbar-section">
         <div class="rd-navbar-container">
           <div class="rd-navbar-logo">
-            <a href="./">
-              <img class="logo-small" src="images/LogoLife.png"/>
-              <img class="logo-default" src="images/LogoLife.png"/>
+            <a href="/lifeDecision">
+              <img class="logo-small" src="/lifeDecision/images/LogoLife.png"/>
+              <img class="logo-default" src="/lifeDecision/images/LogoLife.png"/>
             </a>
           </div>
             <ul class="rd-navbar-nav">
-              <li class="rd-nav-item"><a class="rd-nav-link" href="./about">¿Qui&eacute;nes somos?</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="./schedule">Agenda</a></li>
+              <li class="rd-nav-item"><a class="rd-nav-link" href="/lifeDecision/about">¿Qui&eacute;nes somos?</a></li>
+              <li class="rd-nav-item"><a class="rd-nav-link" href="/lifeDecision/schedule">Agenda</a></li>
               <li class="rd-nav-item"><a class="rd-nav-link" href="#">Amigos Life</a></li>
               <li class="rd-nav-item"><a class="rd-nav-link" href="#">Donaciones</a></li>
             </ul>
