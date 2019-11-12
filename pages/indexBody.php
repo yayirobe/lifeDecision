@@ -42,7 +42,7 @@
         <div class="col-sm-6 col-lg-4">
           <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(/lifeDecision/images/img-04-370x370.jpg)">
             <div class="thumbnail-caption">
-              <h3 class="thumbnail-heading">Esperanza de Vida</h3>
+              <h3 class="thumbnail-heading">Hope - Esperanza de Vida</h3>
               <div class="thumbnail-inner">
                 <div class="thumbnail-content">Hercle, pars fortis!. Festus, audax rumors diligenter convertam de lotus, rusticus.</div>
                 <div class="thumbnail-icon fa-angle-right"></div>
@@ -56,7 +56,7 @@
         <div class="col-sm-6 col-lg-4">
           <a class="thumbnail" href="#" style="background-image: url(/lifeDecision/images/sections/alabanza.jpg)">
             <div class="thumbnail-caption">
-              <h3 class="thumbnail-heading">Alianza</h3>
+              <h3 class="thumbnail-heading">Alliance</h3>
               <div class="thumbnail-inner">
                 <div class="thumbnail-content">Assimilant saepe ducunt ad castus gallus. Demolitiones sunt brodiums de altus.</div>
                 <div class="thumbnail-icon fa-angle-right"></div>
