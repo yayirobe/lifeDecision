@@ -21,7 +21,7 @@
             <ul class="rd-navbar-nav">
               <li class="rd-nav-item"><a class="rd-nav-link" href="/lifeDecision/about">¿Qui&eacute;nes somos?</a></li>
               <li class="rd-nav-item"><a class="rd-nav-link" href="/lifeDecision/schedule">Agenda</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="#">Amigos Life</a></li>
+              <li class="rd-nav-item"><a class="rd-nav-link" href="/lifeDecision/lifeFriends">Amigos Life</a></li>
               <li class="rd-nav-item"><a class="rd-nav-link" href="#">Donaciones</a></li>
             </ul>
             <div class="rd-navbar-icons">

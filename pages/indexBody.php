@@ -40,7 +40,7 @@
           </a>
         </div>
         <div class="col-sm-6 col-lg-4">
-          <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(/lifeDecision/images/img-04-370x370.jpg)">
+          <a class="thumbnail thumbnail-primary" href="/lifeDecision/ministerios/esperanzaDeVida" style="background-image: url(/lifeDecision/images/img-04-370x370.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Hope - Esperanza de Vida</h3>
               <div class="thumbnail-inner">
