@@ -4,7 +4,7 @@
     <div class="container">
       <!--RD Mailform-->
       <form class="rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
-        <h2>Dejanos tu <span class="font-weight-light">mensaje</span></h2>
+        <h2>Déjanos tu <span class="font-weight-light">mensaje</span></h2>
         <div class="form-row row-10 offset-xs">
           <div class="col-lg-4">
             <div class="form-group">
