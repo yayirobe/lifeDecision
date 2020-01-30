@@ -1,5 +1,4 @@
 <?php 
-  include('./configuration/database_connection.php');
   $query = 'SELECT * 
     FROM configuracion c
     INNER JOIN tipoconfiguracion tc ON c.id_tipo_configuracion = tc.id_tipo_configuracion
@@ -31,7 +30,7 @@
       <!--Header-->
       <?php include('header.php');?>
       <!-- BodyReplace -->
-      <?php include($page_content);?>
+      <?php include(getRootPathFile($page_content));?>
     </div>
     <?php
       $result->data_seek(0);

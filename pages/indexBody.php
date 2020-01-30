@@ -27,23 +27,8 @@
   <section class="section-xs">
     <div class="container">
       <div class="row row-30">
-        <div class="col-sm-2 col-lg-2"></div>
-        <div class="col-sm-8 col-lg-8">
-          <a class="thumbnail thumbnail-secondary" href="/lifeDecision/ministerios/manosDeVida" style="background-image: url(/lifeDecision/images/ministerios/manosDeVida/Manos_de_Vida.jpg)">
-            <div class="thumbnail-caption">
-              <h3 class="thumbnail-heading">Manos de Vida</h3>
-              <div class="thumbnail-inner">
-                <div class="thumbnail-content">Assimilant saepe ducunt ad castus gallus. Demolitiones sunt brodiums de altus.</div>
-                <div class="thumbnail-icon fa-angle-right"></div>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-sm-2 col-lg-2"></div>
-      </div>
-      <div class="row row-30">
-        <div class="col-sm-2 col-lg-2"></div>
-        <div class="col-sm-8 col-lg-8">
+        <div class="col-sm-1 col-lg-1"></div>
+        <div class="col-sm-5 col-lg-5">
           <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(/lifeDecision/images/sections/misericordia.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Evangelismo</h3>
@@ -54,11 +39,22 @@
             </div>
           </a>
         </div>
-        <div class="col-sm-2 col-lg-2"></div>
+        <div class="col-sm-5 col-lg-5">
+          <a class="thumbnail thumbnail-secondary" href="/lifeDecision/ministerios/manosDeVida" style="background-image: url(/lifeDecision/images/ministerios/manosDeVida/Manos_de_Vida.jpg)">
+            <div class="thumbnail-caption">
+              <h3 class="thumbnail-heading">Manos de Vida</h3>
+              <div class="thumbnail-inner">
+                <div class="thumbnail-content">Assimilant saepe ducunt ad castus gallus. Demolitiones sunt brodiums de altus.</div>
+                <div class="thumbnail-icon fa-angle-right"></div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-sm-1 col-lg-1"></div>
       </div>
       <div class="row row-30">
-        <div class="col-sm-2 col-lg-2"></div>
-        <div class="col-sm-8 col-lg-8">
+        <div class="col-sm-4 col-lg-4"></div>
+        <div class="col-sm-5 col-lg-5">
           <a class="thumbnail thumbnail-primary" href="/lifeDecision/ministerios/esperanzaDeVida" style="background-image: url(/lifeDecision/images/img-04-370x370.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Hope - Esperanza de Vida</h3>
@@ -69,7 +65,7 @@
             </div>
           </a>
         </div>
-        <div class="col-sm-2 col-lg-2"></div>
+        <div class="col-sm-3 col-lg-3"></div>
       </div>
     </div>
   </section>

@@ -1,5 +1,5 @@
 <?php
 $title = 'Ministerio - Manos de Vida';
-$page_content = './manosDeVidaBody.php';
-include('../estructuraPrincipal/master.php');
+$page_content = '/lifeDecision/ministerios/manosDeVidaBody.php';
+include($_SERVER['DOCUMENT_ROOT'].'/lifeDecision/estructuraPrincipal/master.php');
 ?>
