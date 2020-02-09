@@ -26,7 +26,6 @@
             </ul>
             <div class="rd-navbar-icons">
               <i class="fab fa-facebook-square"></i>
-              <i class="fab fa-twitter-square"></i>
               <i class="fab fa-instagram"></i>
               <i class="fab fa-youtube-square"></i>
             </div>

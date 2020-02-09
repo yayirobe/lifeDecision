@@ -1,5 +1,7 @@
 <?php
-$title = 'Ministerio - Hope, Esperanza de Vida';
-$page_content = '/lifeDecision/ministerios/esperanzaDeVidaBody.php';
-include($_SERVER['DOCUMENT_ROOT'].'/lifeDecision/estructuraPrincipal/master.php');
+include($_SERVER['DOCUMENT_ROOT'].'/lifeDecision/configuration/util.php');
+
+$title = 'Ministerio - Hope';
+$page_content = 'ministerios/esperanzaDeVidaBody.php';
+include(getRootPathFile('estructuraPrincipal/master.php'));
 ?>

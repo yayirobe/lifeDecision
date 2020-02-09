@@ -2,7 +2,7 @@
   $query = 'SELECT * 
     FROM configuracion c
     INNER JOIN tipoconfiguracion tc ON c.id_tipo_configuracion = tc.id_tipo_configuracion
-    WHERE LOWER(tc.nombre_tipo_configuracion) IN ("css","icon","javascript")';
+    WHERE LOWER(tc.nombre_tipo_configuracion) IN ("css","icon","javascript") AND c.active = 1';
     $result = $mysqli->query($query);
 ?>
 

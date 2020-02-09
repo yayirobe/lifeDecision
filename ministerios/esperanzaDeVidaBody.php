@@ -2,11 +2,7 @@
   <div class="container">
     <div class="row row-30">
       <div class="col-lg-3 col-xl-4">
-        <h2 class="text-uppercase">Hope, <span class="font-weight-light">Esperanza de Vida</span></h2><img src="/lifeDecision/images/img-04-370x370.jpg" alt="" width="370" height="137"/>
-<!--         <p class="text-primary font-weight-semibold">Cómo funciona?</p>
-        <p class="text-justify">
-          
-        </p> -->
+        <h2 class="text-uppercase">Hope</h2><img src="/lifeDecision/images/img-04-370x370.jpg" alt="" width="370" height="137"/>
       </div>
       <div class="col-lg-5 col-xl-4 text-justify">
         <h2 class="text-uppercase">Quienes <span class="font-weight-light">somos</span></h2>

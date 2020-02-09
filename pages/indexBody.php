@@ -29,7 +29,7 @@
       <div class="row row-30">
         <div class="col-sm-1 col-lg-1"></div>
         <div class="col-sm-5 col-lg-5">
-          <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(/lifeDecision/images/sections/misericordia.jpg)">
+          <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(/lifeDecision/images/ministerios/evangelismo/Evangelismo_Foto1.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Evangelismo</h3>
               <div class="thumbnail-inner">
@@ -53,11 +53,11 @@
         <div class="col-sm-1 col-lg-1"></div>
       </div>
       <div class="row row-30">
-        <div class="col-sm-4 col-lg-4"></div>
+        <div class="col-sm-1 col-lg-1"></div>
         <div class="col-sm-5 col-lg-5">
-          <a class="thumbnail thumbnail-primary" href="/lifeDecision/ministerios/esperanzaDeVida" style="background-image: url(/lifeDecision/images/img-04-370x370.jpg)">
+          <a class="thumbnail thumbnail-primary" href="/lifeDecision/ministerios/esperanzaDeVida" style="background-image: url(/lifeDecision/images/ministerios/hope/Logo.png)">
             <div class="thumbnail-caption">
-              <h3 class="thumbnail-heading">Hope - Esperanza de Vida</h3>
+              <h3 class="thumbnail-heading">Hope</h3>
               <div class="thumbnail-inner">
                 <div class="thumbnail-content">Hercle, pars fortis!. Festus, audax rumors diligenter convertam de lotus, rusticus.</div>
                 <div class="thumbnail-icon fa-angle-right"></div>
@@ -65,7 +65,18 @@
             </div>
           </a>
         </div>
-        <div class="col-sm-3 col-lg-3"></div>
+        <div class="col-sm-5 col-lg-5">
+          <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(/lifeDecision/images/ministerios/ninosLife/NiñosLife_Foto2.jpg)">
+            <div class="thumbnail-caption">
+              <h3 class="thumbnail-heading">Niños Life</h3>
+              <div class="thumbnail-inner">
+                <div class="thumbnail-content">Hercle, pars fortis!. Festus, audax rumors diligenter convertam de lotus, rusticus.</div>
+                <div class="thumbnail-icon fa-angle-right"></div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-sm-1 col-lg-1"></div>
       </div>
     </div>
   </section>
@@ -73,7 +84,7 @@
   <section class="section-sm bg-gray-100">
     <div class="container">
       <div class="row row-10">
-        <div class="col-12">
+        <div class="col-lg-12">
           <h2 class="text-uppercase text-primary">Bienvenidos <span class="font-weight-light">a nuestra iglesia!</span></h2>
         </div>
         <div class="col-md-6">
@@ -85,53 +96,20 @@
       </div>
     </div>
   </section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4"></div>
+      <div class="col-lg-4">
+        <h2 class="text-uppercase text-primary">Noticias</h2>
+      </div>
+      <div class="col-lg-4"></div>
+    </div>
+  </div>
   <section class="swiper-container" data-autoplay="5000" data-loop="true">
     <div class="swiper-wrapper">
-      <div class="swiper-slide" data-slide-bg="images/slides/slide1.jpg">
-        <div class="swiper-slide-caption">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-6"><a class="cta-box cta-box-primary" href="#" data-caption-animate="fadeInRight" data-caption-duration="800">
-                <h1 class="cta-box-heading">Noticia 1</h1>
-                <div class="cta-box-inner">
-                  <p class="cta-box-content">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
-                  <div class="cta-box-icon fa-angle-right"></div>
-                </div></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide" data-slide-bg="images/slides/slide2.jpg">
-        <div class="swiper-slide-caption">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-6"><a class="cta-box cta-box-secondary" href="#" data-caption-animate="fadeInRight" data-caption-duration="800">
-                <h1 class="cta-box-heading">Noticia 2</h1>
-                <div class="cta-box-inner">
-                  <p class="cta-box-content">Nunquam manifestum habitio. Pol, a bene palus. Camerarius burguss ducunt ad cobaltum. Sunt danistaes promissio velox, azureus humani generises.</p>
-                  <div class="cta-box-icon fa-angle-right"></div>
-                </div></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide" data-slide-bg="images/slides/slide3.jpg">
-        <div class="swiper-slide-caption">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-7"><a class="cta-box" href="#" data-caption-animate="fadeInRight" data-caption-duration="800">
-                <h1 class="cta-box-heading">Noticia 3</h1>
-                <div class="cta-box-inner">
-                  <p class="cta-box-content">Ecce, audax orgia! Talis, velox planetas grauiter consumere de emeritis, nobilis armarium. Planeta de pius parma, anhelare frondator! Lubas sunt.</p>
-                  <div class="cta-box-icon fa-angle-right"></div>
-                </div></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <div class="swiper-slide" data-slide-bg="images/slides/slide1.jpg"></div>
+      <div class="swiper-slide" data-slide-bg="images/slides/slide2.jpg"></div>
+      <div class="swiper-slide" data-slide-bg="images/slides/slide3.jpg"></div>
     </div>
     <div class="swiper-overlay">
       <div class="container">
