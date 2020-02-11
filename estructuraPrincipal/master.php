@@ -1,8 +1,11 @@
-<?php 
+<?php
+  $javascriptSection = '';
+  $cssSection = '';
   $query = 'SELECT * 
     FROM configuracion c
     INNER JOIN tipoconfiguracion tc ON c.id_tipo_configuracion = tc.id_tipo_configuracion
-    WHERE LOWER(tc.nombre_tipo_configuracion) IN ("css","icon","javascript") AND c.active = 1';
+    WHERE LOWER(tc.nombre_tipo_configuracion) IN ("css","icon","javascript") AND c.active = 1
+    ORDER BY c.id_configuracion desc';
     $result = $mysqli->query($query);
 ?>
 
@@ -38,6 +41,13 @@
         if(strtolower($row["nombre_tipo_configuracion"]) == 'javascript') {
             echo "<script src='".$row["valor_configuracion"]."'></script>";
         }
+      }
+      if (!empty($javascriptSection)) {
+        echo $javascriptSection;
+      }
+      
+      if (!empty($cssSection)) {
+        echo $cssSection;
       }
     ?>
   </body>

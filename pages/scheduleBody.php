@@ -16,7 +16,6 @@
   </div>
   <div class="row">
     <div class="col-md-1"></div>
-    <iframe class="col-md-10" src="https://calendar.google.com/calendar/embed?src=kasqc0ja5l0rgh4afrdh58nf24%40group.calendar.google.com&ctz=America%2FArgentina%2FCordoba" style="border: 0" height="600" frameborder="0" scrolling="no"></iframe>
-    <div class="col-md-1"></div>
+    <?php include(getRootPathFile('calendar/calendar.php')); ?>
   </div>
 </div>
