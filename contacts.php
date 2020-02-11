@@ -1,7 +1,7 @@
 <?php
 include($_SERVER['DOCUMENT_ROOT'].'/lifeDecision/configuration/util.php');
 
-$title = '¿Quienes somos?';
-$page_content = 'pages/aboutBody.php';
+$title = 'Contacto';
+$page_content = 'pages/contactsBody.php';
 include(getRootPathFile('estructuraPrincipal/master.php'));
 ?>

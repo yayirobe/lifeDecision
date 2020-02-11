@@ -1,13 +1,30 @@
+<?php
+  $javascriptSection = '';
+  $cssSection = '';
+  $query = 'SELECT * 
+    FROM configuracion c
+    INNER JOIN tipoconfiguracion tc ON c.id_tipo_configuracion = tc.id_tipo_configuracion
+    WHERE LOWER(tc.nombre_tipo_configuracion) IN ("css","icon","javascript") AND c.active = 1
+    ORDER BY c.id_configuracion desc';
+    $result = $mysqli->query($query);
+?>
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <title><?php echo $title ?></title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" href="/lifeDecision/images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900">
-    <link rel="stylesheet" href="/lifeDecision/css/style.css">
+    <?php
+      while ($row = $result->fetch_assoc()) {
+        if(strtolower($row["nombre_tipo_configuracion"]) == 'css') {
+            echo "<link rel='stylesheet' type='text/css' href='".$row["valor_configuracion"]."'>";
+        } elseif(strtolower($row["nombre_tipo_configuracion"]) == 'icon') {
+          echo "<link rel='icon' href='".$row["valor_configuracion"]."'>";
+        }
+      }
+    ?>
   </head>
   <body>
     <!-- Loader -->
@@ -16,9 +33,22 @@
       <!--Header-->
       <?php include('header.php');?>
       <!-- BodyReplace -->
-      <?php include($page_content);?>
+      <?php include(getRootPathFile($page_content));?>
     </div>
-    <script src="/lifeDecision/js/core.min.js"></script>
-    <script src="/lifeDecision/js/script.js"></script>
+    <?php
+      $result->data_seek(0);
+      while ($row = $result->fetch_assoc()) {
+        if(strtolower($row["nombre_tipo_configuracion"]) == 'javascript') {
+            echo "<script src='".$row["valor_configuracion"]."'></script>";
+        }
+      }
+      if (!empty($javascriptSection)) {
+        echo $javascriptSection;
+      }
+      
+      if (!empty($cssSection)) {
+        echo $cssSection;
+      }
+    ?>
   </body>
 </html>
