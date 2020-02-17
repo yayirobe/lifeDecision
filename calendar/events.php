@@ -1,8 +1,8 @@
 <?php
 $sqlEvents = 'SELECT id, title, start_date, end_date FROM events LIMIT 20';
-$result = $mysqli->query($sqlEvents);
+$calendarResults = $mysqli->query($sqlEvents);
 $calendar = array();
-while( $row = $result->fetch_assoc() ) {
+while( $row = $calendarResults->fetch_assoc() ) {
 // convert date to milliseconds
 	$start = strtotime($row['start_date']) * 1000;
 	$end = strtotime($row['end_date']) * 1000;
@@ -15,8 +15,7 @@ while( $row = $result->fetch_assoc() ) {
 		'end' => "$end"
 	);
 }
-$calendarData = array(
-	"success" => 1,
-	"result"=>$calendar);
-echo json_encode($calendarData);
 ?>
+<script type="text/javascript">
+	var calendarResults = <?php echo json_encode($calendar); ?>
+</script>

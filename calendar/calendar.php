@@ -1,8 +1,9 @@
 <?php
 	$cssSection = '<link rel="stylesheet" type="text/css" href="/lifeDecision/css/calendar/calendar.min.css">';
+	include(getRootPathFile('calendar/events.php'));
 ?>
 
-<div class="container">
+<div id="calendarContainer" class="container">
 	<div class="page-header">
 		<div class="pull-right form-inline">
 			<div class="btn-group">
