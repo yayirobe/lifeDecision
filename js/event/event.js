@@ -1,11 +1,10 @@
 (function($) {
 	"use strict";
 	var options = {
-		events_source: '/lifeDecision/calendar/events.php',
+		events_source: calendarResults,
 		view: 'month',
 		tmpl_path: '/lifeDecision/calendar/tmpls/',
 		tmpl_cache: false,
-		day: '2020-02-10',
 		language: 'es-ES',
 		onAfterEventsLoad: function(events) {
 			if(!events) {
