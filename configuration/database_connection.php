@@ -1,8 +1,8 @@
 <?php 
 
-$host = "localhost";
+$host = "lifedecision.cfsqcvodfryc.us-east-1.rds.amazonaws.com";
 $user = "root";
-$password = "";
+$password = "root1234";
 $database = "life_decision";
 $mysqli = new mysqli($host, $user, $password, $database);
 
