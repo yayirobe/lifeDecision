@@ -3,7 +3,7 @@
 	var options = {
 		events_source: calendarResults,
 		view: 'month',
-		tmpl_path: '/lifeDecision/calendar/tmpls/',
+		tmpl_path: '/calendar/tmpls/',
 		tmpl_cache: false,
 		language: 'es-ES',
 		onAfterEventsLoad: function(events) {

@@ -1,5 +1,5 @@
 <?php
-include($_SERVER['DOCUMENT_ROOT'].'/lifeDecision/configuration/util.php');
+include($_SERVER['DOCUMENT_ROOT'].'/configuration/util.php');
 
 $title = 'Ministerio - Hope';
 $page_content = 'ministerios/esperanzaDeVidaBody.php';

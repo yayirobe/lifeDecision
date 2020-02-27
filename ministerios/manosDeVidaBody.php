@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row row-30">
       <div class="col-lg-3 col-xl-4">
-        <h2 class="text-uppercase">Manos de <span class="font-weight-light">vida</span></h2><img src="/lifeDecision/images/ministerios/manosDeVida/Manos_de_Vida.jpg" alt="" width="370" height="137"/>
+        <h2 class="text-uppercase">Manos de <span class="font-weight-light">vida</span></h2><img src="/images/ministerios/manosDeVida/Manos_de_Vida.jpg" alt="" width="370" height="137"/>
         <p class="text-primary font-weight-semibold">PALABRA AÑO 2019</p>
         <p class="text-justify">“No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento, para que comprobéis cuál sea la buena voluntad de Dios, agradable y perfecta”.
         Romanos 12:2
