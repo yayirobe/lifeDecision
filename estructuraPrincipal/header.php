@@ -19,9 +19,9 @@
             </a>
           </div>
             <ul class="rd-navbar-nav">
-              <li class="rd-nav-item"><a class="rd-nav-link" href="/about">¿Qui&eacute;nes somos?</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="/schedule">Agenda</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="/lifeFriends">Amigos Life</a></li>
+              <li class="rd-nav-item"><a class="rd-nav-link" href="/about.php">¿Qui&eacute;nes somos?</a></li>
+              <li class="rd-nav-item"><a class="rd-nav-link" href="/schedule.php">Agenda</a></li>
+              <li class="rd-nav-item"><a class="rd-nav-link" href="/lifeFriends.php">Amigos Life</a></li>
               <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="#">Donaciones</a></li> -->
             </ul>
             <div class="rd-navbar-icons">
