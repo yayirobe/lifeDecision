@@ -24,11 +24,11 @@
               <li class="rd-nav-item"><a class="rd-nav-link" href="/lifeFriends.php">Amigos Life</a></li>
               <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="#">Donaciones</a></li> -->
             </ul>
-            <div class="rd-navbar-icons">
+            <!-- <div class="rd-navbar-icons"> 
               <i class="fab fa-facebook-square"></i>
               <i class="fab fa-instagram"></i>
               <i class="fab fa-youtube-square"></i>
-            </div>
+            </div>-->
         </div>
       </div>
     </nav>
