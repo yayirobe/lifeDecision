@@ -1,6 +1,6 @@
 <div id="body">
   <!-- Noticias -->
-  <section class="parallax-container" data-parallax-img="/lifeDecision/images/slides/slide1.jpg">
+  <section class="parallax-container" data-parallax-img="/images/slides/slide1.jpg">
     <div class="parallax-inner section-cta">
       <div class="container">
         <div class="row">
@@ -10,12 +10,12 @@
             </a>
           </div>
           <div class="col-sm-4">
-            <a class="cta-box cta-box-primary" href="/lifeDecision/howToGet">
+            <a class="cta-box cta-box-primary" href="/howToGet.php">
               <h1 class="cta-box-heading">¿Como llegar?</h1>
             </a>
           </div>
           <div class="col-sm-4">
-            <a class="cta-box cta-box-primary" href="/lifeDecision/Contacts">
+            <a class="cta-box cta-box-primary" href="/Contacts.php">
               <h1 class="cta-box-heading" style="margin-top: 30px;">Contacto</h1>
             </a>
           </div>
@@ -29,7 +29,7 @@
       <div class="row row-30">
         <div class="col-sm-1 col-lg-1"></div>
         <div class="col-sm-5 col-lg-5">
-          <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(/lifeDecision/images/ministerios/evangelismo/Evangelismo_Foto1.jpg)">
+          <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(/images/ministerios/evangelismo/Evangelismo_Foto1.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Evangelismo</h3>
               <div class="thumbnail-inner">
@@ -40,7 +40,7 @@
           </a>
         </div>
         <div class="col-sm-5 col-lg-5">
-          <a class="thumbnail thumbnail-secondary" href="/lifeDecision/ministerios/manosDeVida" style="background-image: url(/lifeDecision/images/ministerios/manosDeVida/Manos_de_Vida.jpg)">
+          <a class="thumbnail thumbnail-secondary" href="/ministerios/manosDeVida.php" style="background-image: url(/images/ministerios/manosDeVida/Manos_de_Vida.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Manos de Vida</h3>
               <div class="thumbnail-inner">
@@ -55,7 +55,7 @@
       <div class="row row-30">
         <div class="col-sm-1 col-lg-1"></div>
         <div class="col-sm-5 col-lg-5">
-          <a class="thumbnail thumbnail-primary" href="/lifeDecision/ministerios/esperanzaDeVida" style="background-image: url(/lifeDecision/images/ministerios/hope/Logo.png)">
+          <a class="thumbnail thumbnail-primary" href="/ministerios/esperanzaDeVida.php" style="background-image: url(/images/ministerios/hope/Logo.png)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Hope</h3>
               <div class="thumbnail-inner">
@@ -66,7 +66,7 @@
           </a>
         </div>
         <div class="col-sm-5 col-lg-5">
-          <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(/lifeDecision/images/ministerios/ninosLife/NiñosLife_Foto2.jpg)">
+          <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(/images/ministerios/ninosLife/NiñosLife_Foto2.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Niños Life</h3>
               <div class="thumbnail-inner">

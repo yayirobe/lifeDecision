@@ -34,6 +34,7 @@
       <?php include('header.php');?>
       <!-- BodyReplace -->
       <?php include(getRootPathFile($page_content));?>
+      <?php include('footer.php');?>
     </div>
     <?php
       $result->data_seek(0);

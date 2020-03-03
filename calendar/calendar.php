@@ -1,5 +1,5 @@
 <?php
-	$cssSection = '<link rel="stylesheet" type="text/css" href="/lifeDecision/css/calendar/calendar.min.css">';
+	$cssSection = '<link rel="stylesheet" type="text/css" href="/css/calendar/calendar.min.css">';
 	include(getRootPathFile('calendar/events.php'));
 ?>
 
@@ -32,7 +32,7 @@
 </div>
 <?php
 	$javascriptSection = 
-		'<script type="text/javascript" src="/lifeDecision/js/calendar/language/es-ES.js"></script>
-		<script type="text/javascript" src="/lifeDecision/js/calendar/calendar.min.js"></script>
-		<script type="text/javascript" src="/lifeDecision/js/event/event.js"></script>';
+		'<script type="text/javascript" src="/js/calendar/language/es-ES.js"></script>
+		<script type="text/javascript" src="/js/calendar/calendar.min.js"></script>
+		<script type="text/javascript" src="/js/event/event.js"></script>';
 ?>
